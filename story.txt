@@ -1,3 +1,13 @@
+<<<<<<< HEAD
 There once was a badger named bucky who lived in a magical place called Camp Randall.
  
 After a while, he was unsatisfied with life and began an institution near the stadium. It was a haven for learning and it was the cornerstone of society in the future. In this haven, there were multiple discplines such as reading, writing, maths and wizardry. As time went on, the disciplines evolved and produced even more faculties for learning. Unfortunately, wizardry ceased to evolve and was labeled a dark art. It is now a thing of legend. 
+=======
+	There once was a badger named bucky who lived in a magical place called Camp Randall.
+This badger hated cheese. He hated it so much that he staged a protest on states street.
+	But of course everyone else there loved cheese, so Bucky was in a perpetual feud with
+the rest of society. Nobody took the protest seriously, many didn't even think he was real.
+The only people who even came to listen were lactose intolerant! So as the ultimate revenge
+prank, they collectively made him the cheese-loving mascot of the university. Even less
+people took him seriously now, all according to plan.
+>>>>>>> 2ed9e0d98cdaac8fe86cc59960611b92a7069367
